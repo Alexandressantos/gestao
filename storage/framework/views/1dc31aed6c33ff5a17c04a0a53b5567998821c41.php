@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\a.santos.admin\Documents\code\gestao\resources\views/layouts/empresa.blade.php ENDPATH**/ ?>
